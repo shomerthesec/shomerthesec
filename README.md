@@ -1,7 +1,7 @@
 ## 🤖👀 Oh Hello There!👀🤖 
 
 ### My name is Moustafa A.Shomer,🙌
-#### I'm a Mechatronics Engineer, I study Data Science and It's various fields because I found my self into this kind of stuff, it's just a natural instinct.🏻🖤
+#### I'm a Mechatronics Engineer, I'm fond of Data Science and It's various fields as I found my self deeply into them, it's just a natural instinct.🖤
 
 -  I’m currently pursuing a career in **Data Science** / **Deep Learning** / **Machine Learning** 🤓
 -  I've taken so many Courses in the field like :
