@@ -22,6 +22,6 @@
       * 🎈 Computer Vision from A to Z on Udemy. 
       * 🎈 Machine Learning from A to Z on Udemy. 
 
-- 📫 How to reach me: you can kindly e-mail me anytime at **shomerthesec@gmail.com**
+- 📫 How to reach me: you can kindly e-mail me anytime at **shomerthesec@gmail.com**.
 - 😄 Pronouns: it's **shu-mar**.
 - 😪 Fun fact: let's be real here there's no fun in data, just **explorations** and **excitement!**.  
