@@ -1,9 +1,11 @@
 ## 🤖👀 Oh Hello There!👀🤖 
 
-### My name is Moustafa A.Shomer,🙌
-#### I'm a Mechatronics Engineer, I'm fond of Data Science and It's various fields as I found my self deeply into them, it's just a natural instinct.🖤
+### My name is *Moustafa Amir Shomer*,🙌
+#### I'm a graduate of Mechatronics Engineering,🎓 
+#### I'm also fond of Data Science and It's various fields,💻
+#### I found my self deeply into them, it's just a natural instinct.🖤
 
--  I’m currently pursuing a career in **Data Science** / **Deep Learning** / **Machine Learning** 🤓
+-  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
 -  I've taken so many Courses in the field like :
       * 🔬 **Deep Learning** Specialization by deeplearning.ai. 
       * 🔬 **TensorFlow In Practice** Specialization by deeplearning.ai. 
@@ -21,5 +23,5 @@
       * 🎈 Machine Learning from A to Z on Udemy. 
 
 - 📫 How to reach me: you can kindly e-mail me anytime at **shomerthesec@gmail.com**
-- 😄 Pronouns: it's shu-mar
-- 😪 Fun fact: let's be real here there's no fun in data, just explorations and excitement!.  
+- 😄 Pronouns: it's **shu-mar**.
+- 😪 Fun fact: let's be real here there's no fun in data, just **explorations** and **excitement!**.  
