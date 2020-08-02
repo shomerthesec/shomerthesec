@@ -1,8 +1,5 @@
 ### Oh Hello There! 🤖👀 
 
-<!--
-**shomerthesec/shomerthesec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 -  I’m currently pursuing a career in Data Science and Deep Learning 🧐🤓
@@ -24,4 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you can kindly e-mail me anytime at shomerthesec@gmail.com
 - 😄 Pronouns: it's shu-mar
 - 😪 Fun fact: let's be real here there's no fun in data, just explorations 
--->
