@@ -8,7 +8,7 @@
 -  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
 -  I've taken so many Courses in the field like :
       * 🔬 **Deep Learning** Specialization by deeplearning.ai. 
-      * 🔬 **TensorFlow In Practice** Specialization by deeplearning.ai. 
+      * 🔬 **DeepLearning.AI TensorFlow Developer**. 
       * 🔬 **TensorFlow Data and Deployment** Specialization by deeplearning.ai. 
       * 🔬 **AI for Medicine** Specialization by deeplearning.ai. 
       * 📋 **Applied Data Science with Python** Specialization by University of Michigan. 
