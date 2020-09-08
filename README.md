@@ -11,7 +11,7 @@
       * 🔬 **DeepLearning.AI TensorFlow Developer**. 
       * 🔬 **TensorFlow Data and Deployment** Specialization by deeplearning.ai. 
       * 🔬 **AI for Medicine** Specialization by deeplearning.ai. 
-      * 🔬 **for Everyone**
+      * 🔬 **for Everyone** by deeplearning.ai.
       * 🔬 **Natural Language Processing** Specialization by deeplearning.ai.	
 
       * 📋 **Applied Data Science with Python** Specialization by University of Michigan. 
