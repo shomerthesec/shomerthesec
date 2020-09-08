@@ -11,6 +11,9 @@
       * 🔬 **DeepLearning.AI TensorFlow Developer**. 
       * 🔬 **TensorFlow Data and Deployment** Specialization by deeplearning.ai. 
       * 🔬 **AI for Medicine** Specialization by deeplearning.ai. 
+      * 🔬 **for Everyone 
+      * 🔬 **Natural Language Processing Specialization 	
+
       * 📋 **Applied Data Science with Python** Specialization by University of Michigan. 
       * 🎢 Udacity’s nano-degree for: **AI Programming with Python**. 
       * 🎢 Udacity’s nano-degree for: **Machine learning Engineer**. 
