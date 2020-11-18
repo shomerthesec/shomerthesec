@@ -6,7 +6,8 @@
 #### I found my self deeply into them, it's just a natural instinct.🖤
 
 -  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
--  I've taken so many Courses in the field like :
+-  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
+-  I've also taken so many Courses in the field like :
       * 🔬 **Deep Learning** Specialization by deeplearning.ai. 
       * 🔬 **DeepLearning.AI TensorFlow Developer**. 
       * 🔬 **TensorFlow Data and Deployment** Specialization by deeplearning.ai. 
