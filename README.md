@@ -1,16 +1,16 @@
 ## 🤖👀 Oh Hello There! 👀🤖 
 
 ### My name is *Moustafa Amir Shomer*,🙌
-#### I'm an undergraduate of Mechatronics Engineering,🎓 
-#### I'm also fond of Data Science, Artificial Intellegence and It's various fields,💻
-#### I found my self deeply into them, it's just a natural instinct.🖤
+#### I'm a senior year Mechatronics Engineer,🎓 
+#### I'm a **Data Scientist & Machine Learning Engineer** with 3+ years of experience,💻
 
 -  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
 -  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
 -  I've also taken so many Courses in the field like :
       * 🔬 **Deep Learning** Specialization by deeplearning.ai. 
       * 🔬 **DeepLearning.AI TensorFlow Developer**. 
-      * 🔬 **TensorFlow Data and Deployment** Specialization by deeplearning.ai. 
+      * 🔬 **TensorFlow: Advanced Techniques** Specialization by deeplearning.ai. 
+      * 🔬 **TensorFlow: Data and Deployment** Specialization by deeplearning.ai. 
       * 🔬 **AI for Medicine** Specialization by deeplearning.ai. 
       * 🔬 **AI for Everyone** by deeplearning.ai.
       * 🔬 **Natural Language Processing** Specialization by deeplearning.ai.
