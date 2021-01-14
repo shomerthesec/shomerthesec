@@ -2,7 +2,7 @@
 
 ### My name is ***Moustafa Amir Shomer***,🙌
 #### I'm a senior year Mechatronics Engineer,🎓 
-#### I'm a ***Data Scientist & Machine Learning Engineer*** with 3+ years of experience,💻
+#### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
 
 -  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
 -  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
