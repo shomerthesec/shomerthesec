@@ -31,5 +31,5 @@
       * 🎈 Computer Vision from A to Z on Udemy. 
       * 🎈 Machine Learning from A to Z on Udemy. 
 - My Side-Projects:
-      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier)
-      * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm)
+      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier).
+      * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
