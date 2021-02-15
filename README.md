@@ -4,7 +4,7 @@
 #### I'm a senior year Mechatronics Engineer,🎓 
 #### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
 
--  I’m currently pursuing a career in ***Data Science** / **Deep Learning** / **Machine Learning*** 🤓
+-  I’m currently pursuing a career in ***Machine Learning / Data Science*** 🤓
 -  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
 -  I've also taken so many Courses in the field like :
       * 💡 [**Deep Learning** Specialization by deeplearning.ai.](https://github.com/shomerthesec/TensorFlow-Basics)
@@ -30,6 +30,10 @@
       * 🎈 Computer Vision and Deep Learning on Udemy. 
       * 🎈 Computer Vision from A to Z on Udemy. 
       * 🎈 Machine Learning from A to Z on Udemy. 
+      
+- I've also read great books related to the field like:
+     * 📚 [**Data Science from Scratch**, 2nd Edition by **Joel Grus**](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+     
 - My Side-Projects :
      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier).
      * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
