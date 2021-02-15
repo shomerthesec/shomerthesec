@@ -32,7 +32,7 @@
       * 🎈 Machine Learning from A to Z on Udemy. 
       
 - I've also read great books related to the field like:
-     * 📚 [**Data Science from Scratch**, 2nd Edition by **Joel Grus**](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
+     * 📚 [**Data Science from Scratch**, 2nd Edition by ***Joel Grus***](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
      
 - My Side-Projects :
      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier).
