@@ -36,7 +36,7 @@
      * 📚 [**Feature Engineering for Machine Learning** by Alice Zheng, Amanda Casari](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/)
      
 - My Side-Projects :
-     * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier/blob/master/covid-normal-pneumonia-using-pretrained-x-ray-ae.ipynb).
+     * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
      * 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi)
      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
      * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
