@@ -3,7 +3,8 @@
 ### My name is ***Moustafa Amir Shomer***,🙌
 #### I'm a senior year Mechatronics Engineer,🎓 
 #### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
-
+#### [I'm an Ambassador for DeepLearning.AI].(https://www.facebook.com/Pie.AI.Alexandria/)
+#### I'm also the head of AI at Google Developer Student Club 
 -  I’m currently pursuing a career in ***Machine Learning / Data Science*** 🤓
 -  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
 -  I've also taken so many Courses in the field like :
