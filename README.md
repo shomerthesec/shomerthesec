@@ -3,11 +3,11 @@
 ### My name is ***Moustafa Amir Shomer***,🙌
 #### I'm a senior year Mechatronics Engineer,🎓 
 #### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
-[####I'm an Ambassador for DeepLearning.AI].(https://www.facebook.com/Pie.AI.Alexandria/)
-#### I'm also the head of AI at Google Developer Student Club 
--  I’m currently pursuing a career in ***Machine Learning / Data Science*** 🤓
--  I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
--  I've also taken so many Courses in the field like :
+#### [I'm an Ambassador for DeepLearning.AI,](https://www.facebook.com/Pie.AI.Alexandria/)
+#### I'm also the head of AI at Google Developer Student Club.
+#### I’m currently pursuing a career in ***Machine Learning / Data Science*** 🤓
+#### I've Successfully taken the ***Huawei Certificate for AI (HCAI)*** 
+#### I've also taken so many Courses in the field like :
       * 💡 [**Deep Learning** Specialization by deeplearning.ai.](https://github.com/shomerthesec/TensorFlow-Basics)
       * 💡 [**DeepLearning.AI TensorFlow Developer**.](https://github.com/shomerthesec/TensorFlow-Basics)
       * 💡 [**TensorFlow: Advanced Techniques** Specialization by deeplearning.ai.](https://github.com/shomerthesec/TensorFlow-Advanced-Techniques-Specialization)
@@ -32,11 +32,11 @@
       * 🎈 Computer Vision from A to Z on Udemy. 
       * 🎈 Machine Learning from A to Z on Udemy. 
       
-- I've also read great books related to the field like:
+#### I've also read great books related to the field like:
      * 📚 [**Data Science from Scratch**, 2nd Edition. by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
      * 📚 [**Feature Engineering for Machine Learning** by Alice Zheng, Amanda Casari](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/)
      
-- My Side-Projects :
+#### My Side-Projects :
      * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
      * 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi)
      * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
