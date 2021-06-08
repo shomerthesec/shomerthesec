@@ -15,6 +15,7 @@
  * 💡 [**AI for Medicine** Specialization by deeplearning.ai.](https://github.com/shomerthesec/AI-for-Medicine-Specialization)
  * 💡 [**Natural Language Processing** Specialization by deeplearning.ai.](https://github.com/shomerthesec/NLP-Specialization)
  * 💡 [**Generative Adversarial Networks (GANs)** Specialization by deeplearning.ai.](https://github.com/shomerthesec/GANs-Specialization)
+ * 💡 [**Machine Learning Engineering for Production (MLOps)** Specialization by deeplearning.ai.](https://github.com/shomerthesec/Machine-Learning-Engineering-for-Production)
  * 💡 **AI for Everyone** by deeplearning.ai.
       
  * 📋 [**Applied Data Science with Python** Specialization by University of Michigan.](https://github.com/shomerthesec/Applied-Data-Science-with-python)
