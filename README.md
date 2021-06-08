@@ -41,4 +41,6 @@
 * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
 * 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi)
 * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
+* 🔬 [**Disease Outbreak Classification & Regression**](https://github.com/shomerthesec/Disease-outbreak)
 * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
+
