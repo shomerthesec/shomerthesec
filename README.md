@@ -1,11 +1,11 @@
 ## 🤖👀 Oh Hello There! 👀🤖 
 
 ### My name is ***Moustafa Amir Shomer***,🙌
-#### I'm a senior year Mechatronics Engineer,🎓 
+#### I've a bachelor's degree in Mechatronics Engineering,🎓 
 #### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
 #### I'm an [Ambassador for DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/),
-#### I'm also the [Head of AI at Google Developer Student Club AIET](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw).
-#### I’m currently pursuing a career in ***Machine Learning / Data Science*** 🤓.
+#### I'm also the [Head of AI at Google Developer Student Club AIET for 2020](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw).
+#### I'm a student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
 #### I've Successfully taken the ***Huawei Certificate for AI (HCAI)***.
 #### I've also taken so many Courses in the field like :
  * 💡 [**Deep Learning** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Basics).
