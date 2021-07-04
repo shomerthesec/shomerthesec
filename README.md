@@ -3,30 +3,30 @@
 ### My name is ***Moustafa Amir Shomer***,🙌
 ##### Got bachelor's degree in ***Mechatronics Engineering***,🎓 
 ##### ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
-#### [Ambassador for DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/),
-#### [Head of AI at Google Developer Student Club AIET for 2020](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw).
+#### Ambassador for [DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/) in Alexandria,
+#### Head of AI at [Google Developer Student Club AIET](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw) for 2020.
 #### Student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
 #### Successfully taken the ***Huawei Certificate for AI (HCAI)***.
 #### Successfully taken the ***Microsoft Azure AI Fundamentals***.
 #### Took many Courses in the field like :
- * 💡 [**Deep Learning** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Basics).
+ * 💡 [**Deep Learning**](https://github.com/shomerthesec/TensorFlow-Basics) Specialization by deeplearning.ai.
  * 💡 [**DeepLearning.AI TensorFlow Developer**](https://github.com/shomerthesec/TensorFlow-Basics).
- * 💡 [**TensorFlow: Advanced Techniques** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Advanced-Techniques-Specialization).
- * 💡 [**TensorFlow: Data and Deployment** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Basics).
- * 💡 [**AI for Medicine** Specialization by deeplearning.ai.](https://github.com/shomerthesec/AI-for-Medicine-Specialization).
- * 💡 [**Natural Language Processing** Specialization by deeplearning.ai](https://github.com/shomerthesec/NLP-Specialization).
- * 💡 [**Generative Adversarial Networks (GANs)** Specialization by deeplearning.ai](https://github.com/shomerthesec/GANs-Specialization).
- * 💡 [**Machine Learning Engineering for Production (MLOps)** Specialization by deeplearning.ai](https://github.com/shomerthesec/Machine-Learning-Engineering-for-Production).
+ * 💡 [**TensorFlow: Advanced Techniques**](https://github.com/shomerthesec/TensorFlow-Advanced-Techniques-Specialization) Specialization by deeplearning.ai.
+ * 💡 [**TensorFlow: Data and Deployment**](https://github.com/shomerthesec/TensorFlow-Basics) Specialization by deeplearning.ai.
+ * 💡 [**AI for Medicine**](https://github.com/shomerthesec/AI-for-Medicine-Specialization) Specialization by deeplearning.ai.
+ * 💡 [**Natural Language Processing**](https://github.com/shomerthesec/NLP-Specialization) Specialization by deeplearning.ai.
+ * 💡 [**Generative Adversarial Networks (GANs)**](https://github.com/shomerthesec/GANs-Specialization) Specialization by deeplearning.ai.
+ * 💡 [**Machine Learning Engineering for Production (MLOps)**](https://github.com/shomerthesec/Machine-Learning-Engineering-for-Production) Specialization by deeplearning.ai.
  * 💡 **AI for Everyone** by deeplearning.ai.
       
- * 📋 [**Applied Data Science with Python** Specialization by University of Michigan](https://github.com/shomerthesec/Applied-Data-Science-with-python).
- * 🎢 [Udacity’s nano-degree for: **AI Programming with Python**](https://github.com/shomerthesec/Udacity-AI-programming-with-Python-Nano-Degree).
- * 🎢 [Udacity’s nano-degree for: **Machine learning Engineer**](https://github.com/shomerthesec/Udacity-Machine-Learning-Engineer-v2.0).
- * 🎢 [Udacity’s nano-degree for: **Programming for Data Science**](https://github.com/shomerthesec/Udacity-Programming-for-Data-Science-Nano-Degree).
- * 🎢 [Udacity’s nano-degree for: **Computer Vision**](https://github.com/shomerthesec/Deep-Learning-with-Pytorch).
- * 🎢 [Udacity’s nano-degree for: **Deep Learning**](https://github.com/shomerthesec/Deep-Learning-with-Pytorch).
+ * 📋 [**Applied Data Science with Python**](https://github.com/shomerthesec/Applied-Data-Science-with-python) Specialization by University of Michigan.
+ * 🎢 Udacity’s nano-degree for: [**AI Programming with Python**](https://github.com/shomerthesec/Udacity-AI-programming-with-Python-Nano-Degree).
+ * 🎢 Udacity’s nano-degree for: [**Machine learning Engineer**](https://github.com/shomerthesec/Udacity-Machine-Learning-Engineer-v2.0).
+ * 🎢 Udacity’s nano-degree for: [**Programming for Data Science**](https://github.com/shomerthesec/Udacity-Programming-for-Data-Science-Nano-Degree).
+ * 🎢 Udacity’s nano-degree for: [**Computer Vision**](https://github.com/shomerthesec/Deep-Learning-with-Pytorch).
+ * 🎢 Udacity’s nano-degree for: [**Deep Learning**](https://github.com/shomerthesec/Deep-Learning-with-Pytorch).
 
- * 🎃 [Intel® Edge AI Scholarship Foundation Course Nano-Degree Program](https://github.com/shomerthesec/Intel-Edge-AI-Scholarship-Foundation-Course-NanoDegree-Program).
+ * 🎃 [Intel® Edge AI Scholarship](https://github.com/shomerthesec/Intel-Edge-AI-Scholarship-Foundation-Course-NanoDegree-Program) Foundation Course Nano-Degree Program.
  * 🎃 An Introduction to Practical Deep Learning by Intel on Coursera. 
 
  * 🎈 Deep Learning from A to Z on Udemy. 
@@ -35,9 +35,9 @@
  * 🎈 Machine Learning from A to Z on Udemy. 
       
 #### Read great books related to the field like:
-* 📚 [**Data Science from Scratch**, 2nd Edition. by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/).
-* 📚 [**Feature Engineering for Machine Learning** by Alice Zheng, Amanda Casari](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/).
-* 📚 [**Grokking Algorithms**: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+* 📚 [**Data Science from Scratch**](https://www.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition. by Joel Grus.
+* 📚 [**Feature Engineering for Machine Learning**](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/) by Alice Zheng, Amanda Casari.
+* 📚 [**Grokking Algorithms**](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230): An Illustrated Guide for Programmers and Other Curious People.
      
 #### My Side-Projects :
 * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
