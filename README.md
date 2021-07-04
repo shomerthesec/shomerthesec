@@ -1,8 +1,8 @@
 ## 🤖👀 Oh Hello There! 👀🤖 
 
-### My name is ***Moustafa Amir Shomer***,🙌
-##### Got bachelor's degree in ***Mechatronics Engineering***,🎓 
-##### ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
+### My name is Moustafa Amir Shomer,🙌
+#### Got bachelor's degree in Mechatronics Engineering,🎓 
+#### Machine Learning Engineer & Data Scientist with 3+ years of experience,💻
 #### Ambassador for [DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/) in Alexandria,
 #### Head of AI at [Google Developer Student Club AIET](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw) for 2020.
 #### Student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
