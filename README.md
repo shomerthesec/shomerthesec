@@ -1,13 +1,14 @@
 ## 🤖👀 Oh Hello There! 👀🤖 
 
 ### My name is ***Moustafa Amir Shomer***,🙌
-#### I've a bachelor's degree in Mechatronics Engineering,🎓 
-#### I'm a ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
-#### I'm an [Ambassador for DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/),
-#### I'm also the [Head of AI at Google Developer Student Club AIET for 2020](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw).
-#### I'm a student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
-#### I've Successfully taken the ***Huawei Certificate for AI (HCAI)***.
-#### I've also taken so many Courses in the field like :
+#### Got bachelor's degree in Mechatronics Engineering,🎓 
+#### ***Machine Learning Engineer & Data Scientist*** with 3+ years of experience,💻
+#### [Ambassador for DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/),
+#### [Head of AI at Google Developer Student Club AIET for 2020](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw).
+#### Student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
+#### Successfully taken the ***Huawei Certificate for AI (HCAI)***.
+#### Successfully taken the ***Microsoft Azure AI Fundamentals***.
+#### Took many Courses in the field like :
  * 💡 [**Deep Learning** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Basics).
  * 💡 [**DeepLearning.AI TensorFlow Developer**](https://github.com/shomerthesec/TensorFlow-Basics).
  * 💡 [**TensorFlow: Advanced Techniques** Specialization by deeplearning.ai](https://github.com/shomerthesec/TensorFlow-Advanced-Techniques-Specialization).
@@ -33,9 +34,10 @@
  * 🎈 Computer Vision from A to Z on Udemy. 
  * 🎈 Machine Learning from A to Z on Udemy. 
       
-#### I've also read great books related to the field like:
+#### Read great books related to the field like:
 * 📚 [**Data Science from Scratch**, 2nd Edition. by Joel Grus](https://www.oreilly.com/library/view/data-science-from/9781492041122/).
 * 📚 [**Feature Engineering for Machine Learning** by Alice Zheng, Amanda Casari](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/).
+* 📚 [**Grokking Algorithms**: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
      
 #### My Side-Projects :
 * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
