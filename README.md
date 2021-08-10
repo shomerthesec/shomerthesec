@@ -13,7 +13,7 @@
  * 💡 [**DeepLearning.AI TensorFlow Developer**](https://github.com/shomerthesec/TensorFlow-Basics).
  * 💡 [**TensorFlow: Advanced Techniques**](https://github.com/shomerthesec/TensorFlow-Advanced-Techniques-Specialization) Specialization by deeplearning.ai.
  * 💡 [**TensorFlow: Data and Deployment**](https://github.com/shomerthesec/TensorFlow-Basics) Specialization by deeplearning.ai.
- * 💡 [**AI for Medicine**](https://github.com/shomerthesec/AI-for-Medicine-Specialization) Specialization by deeplearning.ai.
+ * 💡 [**AI For Medical Treatment**](https://github.com/shomerthesec/AI-for-Medicine-Specialization) Specialization by deeplearning.ai.
  * 💡 [**Natural Language Processing**](https://github.com/shomerthesec/NLP-Specialization) Specialization by deeplearning.ai.
  * 💡 [**Generative Adversarial Networks (GANs)**](https://github.com/shomerthesec/GANs-Specialization) Specialization by deeplearning.ai.
  * 💡 [**Machine Learning Engineering for Production (MLOps)**](https://github.com/shomerthesec/Machine-Learning-Engineering-for-Production) Specialization by deeplearning.ai.
