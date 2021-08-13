@@ -18,6 +18,7 @@
 * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
 * 🔬 [**Disease Outbreak Classification & Regression**](https://github.com/shomerthesec/Disease-outbreak).
 * 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
+* 🔬 [**Understanding and Predicting Property Maintenance Fines**](https://github.com/shomerthesec/Applied-Data-Science-with-Python/blob/main/Applied%20Data%20Science%20with%20python/Course%203/Understanding%20and%20Predicting%20Property%20Maintenance%20Fines-%20Other%20model%20tries.ipynb).
 
 #### Took many Courses in the field like :
  * 💡 [**Deep Learning**](https://github.com/shomerthesec/TensorFlow-Basics) Specialization by deeplearning.ai.
