@@ -1,13 +1,24 @@
 ## 🤖👀 Oh Hello There! 👀🤖 
 
 ### My name is Moustafa Amir Shomer,🙌
-#### Got bachelor's degree in Mechatronics Engineering,🎓 
-#### Machine Learning Engineer & Data Scientist with 3+ years of experience,💻
+#### Have bachelor's degree in Mechatronics Engineering,🎓 
+#### Machine Learning Engineer & Data Scientist,💻
 #### Ambassador for [DeepLearning.AI](https://www.facebook.com/Pie.AI.Alexandria/) in Alexandria,
 #### Head of AI at [Google Developer Student Club AIET](https://l.facebook.com/l.php?u=https%3A%2F%2Fmy-dsc-journey.blogspot.com%2F%3Ffbclid%3DIwAR3nR8AMaxb2mD2k1ycMIwLPun2co-qATgkXe2-v_mrdQytgz6a17korJhQ&h=AT2EGw_Sh-PGqHbrqBNvq9nMT6J6NNe5lmqNpsl2lJazzroVTq60a8yGr1-gxnuTDXcvoqmOOuaxY5sv9IBPb43Qw3wq0xh2qOHsl__c5fuCG1IAzRUsGESLNOu4wf0LpVm8mw) for 2020.
-#### Student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning]() 2021 Courses.
+#### Student at Neuromatch Academy's [Computational NeuroScience](https://github.com/shomerthesec/Computational_NeuroScience) and [Deep Learning](https://github.com/shomerthesec/NMA_Deep_Learning) 2021 Courses.
+
 #### Successfully taken the ***Huawei Certificate for AI (HCAI)***.
 #### Successfully taken the ***Microsoft Azure AI Fundamentals***.
+
+#### My Projects :
+* 🔬 [**Analyzing brain functional connectivity in the gambling task using HCP FMRI dataset**](https://github.com/shomerthesec/Computational_NeuroScience/tree/main/project).
+* 🔬 [**Using Convolutional Neural Networks to classify Music genre**](https://github.com/shomerthesec/NMA_Deep_Learning/tree/main/Project).
+* 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
+* 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi).
+* 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
+* 🔬 [**Disease Outbreak Classification & Regression**](https://github.com/shomerthesec/Disease-outbreak).
+* 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
+
 #### Took many Courses in the field like :
  * 💡 [**Deep Learning**](https://github.com/shomerthesec/TensorFlow-Basics) Specialization by deeplearning.ai.
  * 💡 [**DeepLearning.AI TensorFlow Developer**](https://github.com/shomerthesec/TensorFlow-Basics).
@@ -39,10 +50,4 @@
 * 📚 [**Feature Engineering for Machine Learning**](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/) by Alice Zheng, Amanda Casari.
 * 📚 [**Grokking Algorithms**](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230): An Illustrated Guide for Programmers and Other Curious People.
      
-#### My Side-Projects :
-* 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
-* 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi).
-* 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
-* 🔬 [**Disease Outbreak Classification & Regression**](https://github.com/shomerthesec/Disease-outbreak).
-* 🔬 [**Detector for Open & Closed Gates with CNNs**](https://github.com/shomerthesec/Vortex-Gate-detection-Algorithm).
 
