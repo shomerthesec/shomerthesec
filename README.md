@@ -12,8 +12,7 @@
 
 #### My Projects :
 * 🔬 [**Analyzing brain functional connectivity in the gambling task using HCP FMRI dataset**](https://github.com/shomerthesec/Computational_NeuroScience/tree/main/project).
-* 🔬 [**Analysing Convolutional Neural Networks for Music Genre Classification
-**](https://github.com/shomerthesec/NMA_Deep_Learning/tree/main/Project).
+* 🔬 [**Analysing Convolutional Neural Networks for Music Genre Classification**](https://github.com/shomerthesec/NMA_Deep_Learning/tree/main/Project).
 * 🔬 [**Chest X-ray pretrained Encoder**](https://github.com/shomerthesec/AutoEncoder-for-Chest-X-ray).
 * 🔬 [**Face Recognition on Raspberry Pi 4 model B**](https://github.com/shomerthesec/Face-Recognition-for-Raspberry-Pi).
 * 🔬 [**Covid-19 X-ray Classifier**](https://github.com/shomerthesec/Covid-19-X-ray-Classifier). 
