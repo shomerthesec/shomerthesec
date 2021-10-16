@@ -30,7 +30,9 @@
  * 💡 [**Generative Adversarial Networks (GANs)**](https://github.com/shomerthesec/GANs-Specialization) Specialization by deeplearning.ai.
  * 💡 [**Machine Learning Engineering for Production (MLOps)**](https://github.com/shomerthesec/Machine-Learning-Engineering-for-Production) Specialization by deeplearning.ai.
  * 💡 **AI for Everyone** by deeplearning.ai.
-      
+ 
+ * 📋 [**Data Science with Python**](https://github.com/shomerthesec/Data-scientist-with-python-DataCamp) Track by DataCamp.
+ 
  * 📋 [**Applied Data Science with Python**](https://github.com/shomerthesec/Applied-Data-Science-with-python) Specialization by University of Michigan.
  * 🎢 Udacity’s nano-degree for: [**AI Programming with Python**](https://github.com/shomerthesec/Udacity-AI-programming-with-Python-Nano-Degree).
  * 🎢 Udacity’s nano-degree for: [**Machine learning Engineer**](https://github.com/shomerthesec/Udacity-Machine-Learning-Engineer-v2.0).
@@ -46,9 +48,10 @@
  * 🎈 Computer Vision from A to Z on Udemy. 
  * 🎈 Machine Learning from A to Z on Udemy. 
       
-#### Read great books related to the field like:
-* 📚 [**Data Science from Scratch**](https://www.oreilly.com/library/view/data-science-from/9781492041122/), 2nd Edition. by Joel Grus.
-* 📚 [**Feature Engineering for Machine Learning**](https://www.oreilly.com/library/view/feature-engineering-for/9781491953235/) by Alice Zheng, Amanda Casari.
-* 📚 [**Grokking Algorithms**](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230): An Illustrated Guide for Programmers and Other Curious People.
+#### Read great books related to the field and wrote notes about them on my LinkedIn profile:
+* 📚 [**Data Science from Scratch**](https://www.linkedin.com/posts/shomerthesec_datascience-book-activity-6767094688626286592-brO9), 2nd Edition. by Joel Grus.
+* 📚 [**Feature Engineering for Machine Learning**](https://www.linkedin.com/posts/shomerthesec_featureengineering-datascience-machinelearning-activity-6787393129457713153-D5s1) by Alice Zheng, Amanda Casari.
+* 📚 [**Grokking Algorithms**](https://www.linkedin.com/posts/shomerthesec_%D9%85%D9%84%D8%AE%D8%B5-%D9%83%D8%AA%D8%A7%D8%A8-grokking-algorithms-activity-6850809773387075584-YeHT): An Illustrated Guide for Programmers and Other Curious People.
+* 📚 [**Python for Data Analysis**](https://github.com/shomerthesec/pydata-book) by Wes McKinney.
      
 
