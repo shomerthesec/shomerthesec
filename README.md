@@ -56,7 +56,6 @@
 * 📚 [**Python for Data Analysis**](https://github.com/shomerthesec/pydata-book) by Wes McKinney.
 * 📚 [**Python for Data Analysis**](https://github.com/shomerthesec/pydata-book)
 * 📚 [**Hands-on Machine Learning with scikit learn, keras and Tensorflow**](https://github.com/shomerthesec/handson-ml2).
-* 📚 [**Statistics: the Art and Science of learning from data**]
-* 📚 [**The Elements of Statistical Learning**]
-     
+* 📚 [**Statistics: the Art and Science of learning from data**]()
+* 📚 [**The Elements of Statistical Learning**]()
 
