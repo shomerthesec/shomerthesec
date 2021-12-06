@@ -54,7 +54,6 @@
 * 📚 [**Feature Engineering for Machine Learning**](https://www.linkedin.com/posts/shomerthesec_featureengineering-datascience-machinelearning-activity-6787393129457713153-D5s1) by Alice Zheng, Amanda Casari.
 * 📚 [**Grokking Algorithms**](https://www.linkedin.com/posts/shomerthesec_%D9%85%D9%84%D8%AE%D8%B5-%D9%83%D8%AA%D8%A7%D8%A8-grokking-algorithms-activity-6850809773387075584-YeHT): An Illustrated Guide for Programmers and Other Curious People.
 * 📚 [**Python for Data Analysis**](https://github.com/shomerthesec/pydata-book) by Wes McKinney.
-* 📚 [**Python for Data Analysis**](https://github.com/shomerthesec/pydata-book).
 * 📚 [**Hands-on Machine Learning with scikit learn, keras and Tensorflow**](https://github.com/shomerthesec/handson-ml2).
 * 📚 [**Statistics: the Art and Science of learning from data**]().
 * 📚 [**The Elements of Statistical Learning**]().
