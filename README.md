@@ -11,7 +11,7 @@
 #### Successfully earned the ***Microsoft Azure AI Fundamentals***.
 
 #### My Projects :
-* 🔬 [**Movies' Success classifier**](https://github.com/shomerthesec/Movies_success_predictor).
+* 🔬 [**Movies' Success Predictor**](https://github.com/shomerthesec/Movies_success_predictor).
 * 🔬 [**Research: Buildings Energy forecasting using Deep Learning**](https://github.com/shomerthesec/Research_timeseries_forecasting_using_ashrae_dataset).
 * 🔬 [**Analyzing brain functional connectivity in the gambling task using HCP FMRI dataset**](https://github.com/shomerthesec/Computational_NeuroScience/tree/main/project).
 * 🔬 [**Analysing Convolutional Neural Networks for Music Genre Classification**](https://github.com/shomerthesec/NMA_Deep_Learning/tree/main/Project).
